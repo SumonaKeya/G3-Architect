@@ -148,6 +148,23 @@ main{
   filter:grayscale(100%);
 }
 
+/* footer starts */
+
+.footer{
+  /* border: 1px solid goldenrod; */
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:50px;
+  background-color: #ead6be;
+  
+}
+
+
+
+
+
+
+
 /* Responsive Media Query */
 
 @media screen and (max-width: 576px)
