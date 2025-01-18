@@ -132,7 +132,26 @@ main{
 .fact-description{
   max-width: 540px;
 }
-
+/* Feature section starts */
+#feature-section-title{
+  border-left: 5px solid #FF900E ;
+  padding-left: 20px;
+}
+.feature-card, .feature-title{
+font-weight: 600;
+font-size: 1.25;
+margin: 0;
+margin-bottom: 0;
+}
+.feature-card{
+  padding: 30px;
+box-shadow: 0 4px 30px 0 rgba(0,0,0,0.06) ;
+gap:20px;
+border-radius: 8px;
+}
+.features{
+  gap:140px;
+}
 /* Sponsor section */
 
 .sponsor-info{
